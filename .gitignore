@@ -17,7 +17,9 @@
 
 # ListeningPractice 题源仅允许本地存在，禁止纳入 Git
 /ListeningPractice/
-/assets/generated/listening-exams/
+# 允许听力索引文件（manifest.js 和 listening-index.compat.js）
+!/assets/generated/listening-exams/listening-index.compat.js
+!/assets/generated/listening-exams/manifest.js
 /睡着过项目组(9.4)[134篇]/
 /IELTS/
 /.claude/
